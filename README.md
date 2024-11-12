@@ -14,9 +14,7 @@ I'm a passionate B.Tech 3rd-year student at **Indira Gandhi Delhi Technical Univ
 - **Concepts**: Data Structures, Algorithms
 
 ### 🔗 Connect with Me:
-- **LinkedIn**: [https://www.linkedin.com/in/humaira-naaz-360117229/](#)
+- **LinkedIn**: [humaira-naaz-360117229](#)
 - **Email**: Humanaaznaa@gamail.com
 
-### 📈 GitHub Stats:
-![Humaira's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
