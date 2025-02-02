@@ -9,9 +9,9 @@ I'm a passionate B.Tech 3rd-year student at **Indira Gandhi Delhi Technical Univ
 - 🌱 Working on enhancing my skills in AI and machine learning.
 
 ### 🛠 Technical Skills:
-- **Languages**: C++, Java
+- **Languages**: C++, frontend Development,
 - **Database**: MySQL
-- **Concepts**: Data Structures, Algorithms
+- **Concepts**: Data Structures & Algorithms , OOPs
 
 ### 🔗 Connect with Me:
 - **LinkedIn**: [humaira-naaz-360117229](#)
